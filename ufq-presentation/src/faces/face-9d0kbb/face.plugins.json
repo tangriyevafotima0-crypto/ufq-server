@@ -1,0 +1,27 @@
+{
+  "instances": {
+    "registration": {
+      "pluginId": "form",
+      "config": {
+        "fields": {
+          "fullName": {
+            "type": "string",
+            "label": "Full name"
+          },
+          "email": {
+            "type": "email",
+            "label": "Email"
+          },
+          "company": {
+            "type": "string",
+            "label": "Company"
+          },
+          "role": {
+            "type": "string",
+            "label": "Role"
+          }
+        }
+      }
+    }
+  }
+}

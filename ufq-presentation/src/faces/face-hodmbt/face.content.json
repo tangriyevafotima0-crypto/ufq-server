@@ -1,0 +1,61 @@
+{
+  "blocks": {
+    "label": {
+      "type": "text",
+      "title": "label",
+      "content": "Tahlil"
+    },
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Amaldagi modelning asosiy xususiyatlari."
+    },
+    "cards": {
+      "type": "table",
+      "title": "cards",
+      "columns": [
+        {
+          "key": "index",
+          "title": "Index",
+          "type": "text"
+        },
+        {
+          "key": "title",
+          "title": "Title",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "title": "Description",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "f1",
+          "index": "01",
+          "title": "Sinxron majburiyat",
+          "description": "Barcha a'zolarning bir vaqtda ishtirok etishi talab etiladi."
+        },
+        {
+          "id": "f2",
+          "index": "02",
+          "title": "Yuqori resurs sarfi",
+          "description": "Tashkiliy va moliyaviy resurslar katta hajmda sarflanadi."
+        },
+        {
+          "id": "f3",
+          "index": "03",
+          "title": "Qisqa muddatli samara",
+          "description": "Ijtimoiy natija tadbir bilan cheklanib, uzoq muddatga o'tmaydi."
+        },
+        {
+          "id": "f4",
+          "index": "04",
+          "title": "Masshtablash qiyinligi",
+          "description": "Model o'sish va resurs samaradorligiga yetarli imkon bermaydi."
+        }
+      ]
+    }
+  }
+}

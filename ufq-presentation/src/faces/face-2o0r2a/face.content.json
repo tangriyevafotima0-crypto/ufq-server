@@ -1,0 +1,34 @@
+{
+  "blocks": {
+    "headingLeft": {
+      "type": "text",
+      "title": "headingLeft",
+      "content": "Rollar yo'nalishga qarab almashadi"
+    },
+    "bodyLeft": {
+      "type": "text",
+      "title": "bodyLeft",
+      "content": "MPP tizimida rol maqomi shaxsga emas, akademik yo'nalishga bog'lanadi. Har bir a'zo o'zi kuchli bo'lgan yo'nalishda mentor sifatida faoliyat yuritadi.<br>Masalan, IELTS yo'nalishida mentor vazifasini bajaruvchi a'zo SAT yo'nalishida partner maqomida ishlaydi.<br>Bu yondashuv bilimni tashkilot ichida tabiiy ravishda tarqatadi va bir a'zoga bog'liqlikni kamaytiradi."
+    },
+    "headingRight": {
+      "type": "text",
+      "title": "headingRight",
+      "content": "Doimiy rahbarlik maqomi yo'q"
+    },
+    "bodyRight": {
+      "type": "text",
+      "title": "bodyRight",
+      "content": "Tizimda doimiy rahbarlik lavozimi nazarda tutilmagan. Maqom har bir yo'nalish uchun alohida belgilanadi.<br>Natijada har bir a'zo ham o'rgatish, ham o'rganish tajribasini bir vaqtda oladi.<br>Bu yetakchilik ko'nikmalarini bir nechta sohada parallel rivojlantirish imkonini beradi."
+    },
+    "footer": {
+      "type": "text",
+      "title": "footer",
+      "content": "MPP · Mentor-Partner-Partner"
+    },
+    "image": {
+      "type": "image",
+      "title": "image",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/h0i2o74w-1789484970827-generated-image.png"
+    }
+  }
+}

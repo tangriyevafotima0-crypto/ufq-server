@@ -1,0 +1,24 @@
+{
+  "blocks": {
+    "label": {
+      "type": "text",
+      "title": "label",
+      "content": "Transformatsiya zarurati"
+    },
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Akademik bosqich va vaqt<br>resurslarini optimallashtirish."
+    },
+    "aside": {
+      "type": "text",
+      "title": "aside",
+      "content": "11-sinf o'quv bosqichi.<br>SAT va IELTS imtihonlari.<br>Universitetga hujjat topshirish."
+    },
+    "bgImage": {
+      "type": "image",
+      "title": "bgImage",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/hj0vbzbg-1789484980303-generated-image.png"
+    }
+  }
+}

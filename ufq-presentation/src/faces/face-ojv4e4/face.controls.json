@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "columnWidth": {
+      "type": "slider",
+      "min": 320,
+      "max": 640,
+      "step": 20,
+      "value": 460
+    }
+  }
+}

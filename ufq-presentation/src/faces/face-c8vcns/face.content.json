@@ -1,0 +1,19 @@
+{
+  "blocks": {
+    "company": {
+      "type": "text",
+      "title": "company",
+      "content": "Keyingi bosqichlar"
+    },
+    "tagline": {
+      "type": "text",
+      "title": "tagline",
+      "content": "Tuzilma, tizim va<br>birinchi monitoring tsikli."
+    },
+    "heroImage": {
+      "type": "image",
+      "title": "heroImage",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/zoypbyuz-1789485035164-generated-image.png"
+    }
+  }
+}

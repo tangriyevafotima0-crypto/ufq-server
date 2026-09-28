@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "overlayDarkness": {
+      "type": "slider",
+      "min": 0,
+      "max": 90,
+      "step": 5,
+      "value": 60
+    }
+  }
+}

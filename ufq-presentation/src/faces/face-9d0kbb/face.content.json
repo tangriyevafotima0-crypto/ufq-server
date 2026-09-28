@@ -1,0 +1,89 @@
+{
+  "blocks": {
+    "titleLine1": {
+      "type": "text",
+      "title": "titleLine1",
+      "content": "Tasdiqlash"
+    },
+    "titleLine2": {
+      "type": "text",
+      "title": "titleLine2",
+      "content": "bayonnomasi."
+    },
+    "subtitle": {
+      "type": "text",
+      "title": "subtitle",
+      "content": "Ushbu hujjat mazmuni bilan tanishib chiqib, strategik transformatsiya asoslarini va yangi MPP operatsion tizimi qoidalarini tasdiqlaymiz."
+    },
+    "footnote": {
+      "type": "text",
+      "title": "footnote",
+      "content": "Sana: 08.09.2026"
+    },
+    "formHeading": {
+      "type": "text",
+      "title": "formHeading",
+      "content": "A'zo tasdiqlashi"
+    },
+    "nameLabel": {
+      "type": "text",
+      "title": "nameLabel",
+      "content": "F.I.SH"
+    },
+    "namePlaceholder": {
+      "type": "text",
+      "title": "namePlaceholder",
+      "content": "Ism va familiya"
+    },
+    "emailLabel": {
+      "type": "text",
+      "title": "emailLabel",
+      "content": "Elektron pochta"
+    },
+    "emailPlaceholder": {
+      "type": "text",
+      "title": "emailPlaceholder",
+      "content": "ism@pochta.com"
+    },
+    "companyLabel": {
+      "type": "text",
+      "title": "companyLabel",
+      "content": "Akademik yo'nalish"
+    },
+    "companyPlaceholder": {
+      "type": "text",
+      "title": "companyPlaceholder",
+      "content": "SAT / IELTS"
+    },
+    "roleLabel": {
+      "type": "text",
+      "title": "roleLabel",
+      "content": "MPP maqomi"
+    },
+    "rolePlaceholder": {
+      "type": "text",
+      "title": "rolePlaceholder",
+      "content": "Mentor yoki Partner"
+    },
+    "submitText": {
+      "type": "text",
+      "title": "submitText",
+      "content": "Tasdiqlayman"
+    },
+    "successTitle": {
+      "type": "text",
+      "title": "successTitle",
+      "content": "Qabul qilindi."
+    },
+    "successText": {
+      "type": "text",
+      "title": "successText",
+      "content": "Tasdiqlashingiz qayd etildi. Jamoa tuzilmasi va monitoring tizimi bo'yicha keyingi ma'lumotlar sizga yuboriladi."
+    },
+    "bgImage": {
+      "type": "image",
+      "title": "bgImage",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/q5agennx-1789485043876-generated-image.png"
+    }
+  }
+}

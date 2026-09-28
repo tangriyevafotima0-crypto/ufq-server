@@ -1,0 +1,85 @@
+{
+  "blocks": {
+    "company": {
+      "type": "text",
+      "title": "company",
+      "content": "Sifat va Impact"
+    },
+    "titleLine1": {
+      "type": "text",
+      "title": "titleLine1",
+      "content": "Chuqur natija"
+    },
+    "titleLine2": {
+      "type": "text",
+      "title": "titleLine2",
+      "content": "kuchli portfolio"
+    },
+    "body": {
+      "type": "text",
+      "title": "body",
+      "content": "Yangi model ta'lim natijalarining sifatini oshiradi va loyihalarga chuqurroq jalb etilishni ta'minlaydi. Har bir a'zo mentorlik va hamkorlik tajribasini bir vaqtda egallaydi, bu universitet hujjatlari uchun mustahkam asos yaratadi."
+    },
+    "gallery": {
+      "type": "table",
+      "title": "gallery",
+      "columns": [
+        {
+          "key": "image",
+          "title": "Image",
+          "type": "image"
+        }
+      ],
+      "rows": [
+        {
+          "id": "g1",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/r6i96wk1-1789485022939-generated-image.png"
+          }
+        },
+        {
+          "id": "g2",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/c5s3xcrc-1789485023182-generated-image.png"
+          }
+        },
+        {
+          "id": "g3",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/6ufgtkw9-1789485023377-generated-image.png"
+          }
+        },
+        {
+          "id": "g4",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/86poc1vn-1789485023500-generated-image.png"
+          }
+        },
+        {
+          "id": "g5",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/xqma32q0-1789485023690-generated-image.png"
+          }
+        },
+        {
+          "id": "g6",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/1brgise8-1789485023320-generated-image.png"
+          }
+        },
+        {
+          "id": "g7",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/phb5nmud-1789485026887-generated-image.png"
+          }
+        },
+        {
+          "id": "g8",
+          "image": {
+            "src": "https://d6yvfl55smr7u.cloudfront.net/assets/igrjksqz-1789485026608-generated-image.png"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "blocks": {
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Asinxron intizom va reglament"
+    },
+    "faqs": {
+      "type": "table",
+      "title": "faqs",
+      "columns": [
+        {
+          "key": "question",
+          "title": "Question",
+          "type": "text"
+        },
+        {
+          "key": "answer",
+          "title": "Answer",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "q1",
+          "question": "Kundalik yig'ilishlar bo'ladimi?",
+          "answer": "Yo'q. Sinxron kundalik uchrashuvlar talab etilmaydi, jamoa asinxron tartibda faoliyat yuritadi."
+        },
+        {
+          "id": "q2",
+          "question": "Vaqtni kim belgilaydi?",
+          "answer": "Har bir a'zo topshiriqlarni ijro etish vaqtini mustaqil ravishda o'zi belgilaydi."
+        },
+        {
+          "id": "q3",
+          "question": "Muddatlar qanday nazorat qilinadi?",
+          "answer": "Yakuniy natijalar belgilangan deadline'ga qadar taqdim etilishi shart va bu qat'iy talab."
+        },
+        {
+          "id": "q4",
+          "question": "Erkinlik javobgarlikni kamaytiradimi?",
+          "answer": "Yo'q. Jadval erkin, biroq natija bo'yicha javobgarlik to'liq saqlanadi."
+        },
+        {
+          "id": "di31lu",
+          "question": "Qanday natija hisobga olinadi?",
+          "answer": "Faqat topshirilgan va tasdiqlangan portfolio natijalari yakuniy hisobga kiritiladi."
+        }
+      ]
+    }
+  }
+}

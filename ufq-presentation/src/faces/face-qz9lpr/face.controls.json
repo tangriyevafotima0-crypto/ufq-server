@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "scrollSpeed": {
+      "type": "slider",
+      "min": 12,
+      "max": 60,
+      "step": 2,
+      "value": 40
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "controls": {
+    "chartSide": {
+      "type": "selector",
+      "options": [
+        "Left",
+        "Right"
+      ],
+      "value": "Right"
+    }
+  }
+}

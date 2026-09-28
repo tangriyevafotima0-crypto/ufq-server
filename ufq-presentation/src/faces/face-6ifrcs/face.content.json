@@ -1,0 +1,24 @@
+{
+  "blocks": {
+    "company": {
+      "type": "text",
+      "title": "company",
+      "content": "UFQ Yoshlar Tashkiloti"
+    },
+    "taglineLine1": {
+      "type": "text",
+      "title": "taglineLine1",
+      "content": "Operatsion modelni<br>transformatsiya qilish."
+    },
+    "subtitle": {
+      "type": "text",
+      "title": "subtitle",
+      "content": "Event-Driven modelidan Peer-Led Portfolio ekotizimiga (MPP) o'tish<br>Strategik rezolyutsiya · 08-sentabr, 2026"
+    },
+    "heroImage": {
+      "type": "image",
+      "title": "heroImage",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/gnzt5fnj-1789484930231-generated-image.png"
+    }
+  }
+}

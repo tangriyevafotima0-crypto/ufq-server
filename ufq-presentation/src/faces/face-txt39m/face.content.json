@@ -1,0 +1,104 @@
+{
+  "blocks": {
+    "label": {
+      "type": "text",
+      "title": "label",
+      "content": "Samaradorlik"
+    },
+    "headline": {
+      "type": "text",
+      "title": "headline",
+      "content": "Resurslar akademik maqsadlarga qayta yo'naltiriladi"
+    },
+    "body": {
+      "type": "text",
+      "title": "body",
+      "content": "Asinxron ish tartibi jadvalni moslashuvchan qiladi va tashkiliy yukni kamaytiradi. Quyidagi ko'rsatkichlar vaqt resursining qayta taqsimlanish mantiqini illyustratsiya qiladi."
+    },
+    "chartTitle": {
+      "type": "text",
+      "title": "chartTitle",
+      "content": "Vaqt resursining event modelidan MPP modeliga qayta taqsimlanishi"
+    },
+    "legendStart": {
+      "type": "text",
+      "title": "legendStart",
+      "content": "Boshlang'ich"
+    },
+    "legendIncrease": {
+      "type": "text",
+      "title": "legendIncrease",
+      "content": "O'sish"
+    },
+    "legendDecrease": {
+      "type": "text",
+      "title": "legendDecrease",
+      "content": "Kamayish"
+    },
+    "chartData": {
+      "type": "table",
+      "title": "chartData",
+      "columns": [
+        {
+          "key": "label",
+          "title": "Label",
+          "type": "text"
+        },
+        {
+          "key": "value",
+          "title": "Change",
+          "type": "text"
+        },
+        {
+          "key": "type",
+          "title": "Type",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "r1",
+          "label": "Event modeli",
+          "value": "100",
+          "type": "start"
+        },
+        {
+          "id": "r2",
+          "label": "Tadbir tashkili",
+          "value": "-30",
+          "type": "decrease"
+        },
+        {
+          "id": "r3",
+          "label": "Sinxron yig'ilishlar",
+          "value": "-20",
+          "type": "decrease"
+        },
+        {
+          "id": "r4",
+          "label": "Logistika",
+          "value": "-10",
+          "type": "decrease"
+        },
+        {
+          "id": "r5",
+          "label": "Akademik fokus",
+          "value": "35",
+          "type": "increase"
+        },
+        {
+          "id": "r6",
+          "label": "Portfolio ishi",
+          "value": "25",
+          "type": "increase"
+        },
+        {
+          "id": "r7",
+          "label": "MPP modeli",
+          "value": "100",
+          "type": "start"
+        }
+      ]
+    }
+  }
+}

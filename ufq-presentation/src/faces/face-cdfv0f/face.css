@@ -1,0 +1,50 @@
+
+.ind-hazard {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--brand) 0,
+    var(--brand) 16px,
+    var(--foreground) 16px,
+    var(--foreground) 32px
+  );
+}
+
+.ind-noise {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.4'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  opacity: 0.16;
+  mix-blend-mode: multiply;
+}
+
+@container (min-width: 1280px) {
+  .faq-grid-container {
+    grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+.faq-answer-enter {
+  display: grid;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  transition: grid-template-rows 0.4s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
+}
+
+.faq-answer-active {
+  grid-template-rows: 1fr;
+  opacity: 1;
+}
+
+.faq-answer-inner {
+  overflow: hidden;
+  min-height: 0;
+}
+
+@container (min-width: 1280px) {
+  .faq-answer-enter {
+    grid-template-rows: 1fr !important;
+    opacity: 1 !important;
+  }
+  .faq-answer-inner {
+    overflow: visible !important;
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "layout": "STACKED",
+  "slidesDisplay": "CARDS",
+  "stackedOrientation": "HORIZONTAL",
+  "mobileCanvas": "COMPACT",
+  "tokens": {
+    "palette": [
+      {
+        "name": "--background",
+        "value": "#d7d7d2"
+      },
+      {
+        "name": "--surface",
+        "value": "#c9c9c2"
+      },
+      {
+        "name": "--foreground",
+        "value": "#1e1f1d"
+      },
+      {
+        "name": "--brand",
+        "value": "#f7c600"
+      },
+      {
+        "name": "--accent",
+        "value": "#d9531e"
+      },
+      {
+        "name": "--muted",
+        "value": "#3a3b38"
+      },
+      {
+        "name": "--paper",
+        "value": "#f2f2ee"
+      },
+      {
+        "name": "--line",
+        "value": "#b9b9b2"
+      },
+      {
+        "name": "--steel",
+        "value": "#8e8e86"
+      },
+      {
+        "name": "--steel-dark",
+        "value": "#4d4d47"
+      }
+    ],
+    "fonts": [
+      {
+        "name": "--font-display",
+        "family": "Oswald"
+      },
+      {
+        "name": "--font-body",
+        "family": "Roboto Condensed"
+      }
+    ]
+  },
+  "cardsBackgroundColor": "#8e8e86",
+  "cardsCorners": "SQUARE"
+}

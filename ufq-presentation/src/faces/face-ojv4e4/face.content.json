@@ -1,0 +1,65 @@
+{
+  "blocks": {
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Implementatsiya jarayoni"
+    },
+    "milestones": {
+      "type": "table",
+      "title": "milestones",
+      "columns": [
+        {
+          "key": "label",
+          "title": "Label",
+          "type": "text"
+        },
+        {
+          "key": "body1",
+          "title": "Body line 1",
+          "type": "text"
+        },
+        {
+          "key": "body2",
+          "title": "Body line 2",
+          "type": "text"
+        },
+        {
+          "key": "date",
+          "title": "Date",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "m1",
+          "label": "Struktura",
+          "body1": "Jamoa a'zolari akademik yo'nalishlar bo'yicha guruhlarga taqsimlanadi.",
+          "body2": "Har bir yo'nalishda 3 kishilik tarkib shakllantiriladi.",
+          "date": "1-bosqich"
+        },
+        {
+          "id": "m2",
+          "label": "MPP Rollari",
+          "body1": "Har bir guruhda 1 Mentor va 2 Partner maqomi belgilanadi.",
+          "body2": "Rollar yo'nalishlar kesimida almashinib turadi.",
+          "date": "2-bosqich"
+        },
+        {
+          "id": "m3",
+          "label": "Monitoring",
+          "body1": "AWS bulutida joylashgan bot ishga tushiriladi.",
+          "body2": "Har 3 kunda check-in va audit tekshiruvlari yo'lga qo'yiladi.",
+          "date": "3-bosqich"
+        },
+        {
+          "id": "m4",
+          "label": "Reglament",
+          "body1": "Aniq deadline va hisobdorlik qoidalari joriy etiladi.",
+          "body2": "Natijalar belgilangan muddatda taqdim etiladi.",
+          "date": "4-bosqich"
+        }
+      ]
+    }
+  }
+}

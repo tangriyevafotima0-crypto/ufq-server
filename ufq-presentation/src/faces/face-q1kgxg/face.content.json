@@ -1,0 +1,19 @@
+{
+  "blocks": {
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Zo'riqishni oldini olish<br>samaradorlikni himoya qiladi"
+    },
+    "subtitle": {
+      "type": "text",
+      "title": "subtitle",
+      "content": "Ommaviy tadbirlarni tashkil etishdagi yuqori resurs sarfi jamoaning akademik tayyorgarligiga salbiy ta'sir ko'rsatmoqda. Yangi model e'tiborni ta'lim sifati va portfolio natijalariga qaratadi."
+    },
+    "heroImage": {
+      "type": "image",
+      "title": "heroImage",
+      "src": "https://d6yvfl55smr7u.cloudfront.net/assets/pk75k9yg-1789484996934-generated-image.png"
+    }
+  }
+}

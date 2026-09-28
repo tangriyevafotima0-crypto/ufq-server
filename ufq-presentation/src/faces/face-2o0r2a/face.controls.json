@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "imageWidth": {
+      "type": "slider",
+      "min": 30,
+      "max": 55,
+      "step": 1,
+      "value": 42
+    }
+  }
+}

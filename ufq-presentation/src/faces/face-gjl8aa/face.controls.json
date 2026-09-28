@@ -1,0 +1,8 @@
+{
+  "controls": {
+    "showNumbers": {
+      "type": "switch",
+      "value": true
+    }
+  }
+}

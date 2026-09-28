@@ -1,0 +1,8 @@
+{
+  "controls": {
+    "showDescriptions": {
+      "type": "switch",
+      "value": true
+    }
+  }
+}

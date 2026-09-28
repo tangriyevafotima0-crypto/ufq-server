@@ -1,0 +1,57 @@
+{
+  "blocks": {
+    "label": {
+      "type": "text",
+      "title": "label",
+      "content": "Admissions Impact"
+    },
+    "title": {
+      "type": "text",
+      "title": "title",
+      "content": "Qabul komissiyalari nimani qadrlaydi"
+    },
+    "items": {
+      "type": "table",
+      "title": "items",
+      "columns": [
+        {
+          "key": "title",
+          "title": "Title",
+          "type": "text"
+        },
+        {
+          "key": "note",
+          "title": "Note",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "r1",
+          "title": "Loyihalarning amaliy ta'siri",
+          "note": "Tadbirlar miqdori emas, jamiyatga ko'rsatilgan real natija hisobga olinadi"
+        },
+        {
+          "id": "r2",
+          "title": "Shaxsiy rivojlanish",
+          "note": "Nomzodning o'sish trayektoriyasi va izchil sa'y-harakatlari baholanadi"
+        },
+        {
+          "id": "r3",
+          "title": "Akademik salohiyat",
+          "note": "SAT va IELTS natijalari orqali tasdiqlangan tayyorgarlik darajasi"
+        },
+        {
+          "id": "r4",
+          "title": "Yetakchilik chuqurligi",
+          "note": "Mentorlik tajribasi va mas'uliyatni o'z zimmasiga olish qobiliyati"
+        },
+        {
+          "id": "r5",
+          "title": "Portfolio izchilligi",
+          "note": "Miqdor emas, sifat va yo'naltirilgan fokus asosiy mezon bo'lib qoladi"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "imageDarken": {
+      "type": "slider",
+      "min": 0,
+      "max": 80,
+      "step": 5,
+      "value": 55
+    }
+  }
+}

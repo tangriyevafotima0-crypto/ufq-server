@@ -1,0 +1,52 @@
+{
+  "blocks": {
+    "eyebrow": {
+      "type": "text",
+      "title": "eyebrow",
+      "content": "Yangi operatsion tizim"
+    },
+    "statement": {
+      "type": "text",
+      "title": "statement",
+      "content": "Tashkilot markazlashgan tadbirlar formatidan avtonom va asinxron o'quv-portfolio tarmog'iga o'tadi. Har bir akademik yo'nalish bo'yicha 3 kishilik tarkibiy tuzilma shakllantiriladi: 1 Mentor va 2 Partner."
+    },
+    "steps": {
+      "type": "table",
+      "title": "steps",
+      "columns": [
+        {
+          "key": "number",
+          "title": "Number",
+          "type": "text"
+        },
+        {
+          "key": "label",
+          "title": "Label",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "s1",
+          "number": "01",
+          "label": "Yo'nalish"
+        },
+        {
+          "id": "s2",
+          "number": "02",
+          "label": "Mentor"
+        },
+        {
+          "id": "s3",
+          "number": "03",
+          "label": "Partner"
+        },
+        {
+          "id": "s4",
+          "number": "04",
+          "label": "Portfolio"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "blocks": {
+    "label": {
+      "type": "text",
+      "title": "label",
+      "content": "Raqamli monitoring va audit tizimi"
+    },
+    "rows": {
+      "type": "table",
+      "title": "rows",
+      "columns": [
+        {
+          "key": "number",
+          "title": "Number",
+          "type": "text"
+        },
+        {
+          "key": "name",
+          "title": "Name",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "title": "Description",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "id": "r1",
+          "number": "01",
+          "name": "Avtomatlashtirish",
+          "description": "AWS bulutli serverida yo'lga qo'yilgan avtomatlashtirilgan bot butun jarayonni boshqaradi."
+        },
+        {
+          "id": "r2",
+          "number": "02",
+          "name": "Check-in",
+          "description": "Har 3 kunda nazorat tekshiruvlari o'tkaziladi va har bir a'zo holatini qayd etadi."
+        },
+        {
+          "id": "r3",
+          "number": "03",
+          "name": "Audit",
+          "description": "O'quv jarayonlari va topshirilgan natijalar bo'yicha muntazam audit yuritiladi."
+        },
+        {
+          "id": "r4",
+          "number": "04",
+          "name": "Bildirishnoma",
+          "description": "Muddatlar va vazifalar bo'yicha tegishli bildirishnomalar avtomatik yuboriladi."
+        }
+      ]
+    }
+  }
+}

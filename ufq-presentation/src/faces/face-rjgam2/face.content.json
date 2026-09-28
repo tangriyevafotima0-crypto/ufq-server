@@ -1,0 +1,34 @@
+{
+  "blocks": {
+    "problemLabel": {
+      "type": "text",
+      "title": "problemLabel",
+      "content": "Amaldagi mexanizm"
+    },
+    "problemTitle": {
+      "type": "text",
+      "title": "problemTitle",
+      "content": "Tadbirlarga asoslangan<br>markazlashgan model"
+    },
+    "problemBody": {
+      "type": "text",
+      "title": "problemBody",
+      "content": "Tashkilot faoliyati ommaviy tadbirlar, forumlar, munozara turnirlari va rasmiy uchrashuvlarni tashkillashtirishga qaratilgan. Barcha a'zolar bir vaqtda yagona loyihaga safarbar etiladi."
+    },
+    "solutionLabel": {
+      "type": "text",
+      "title": "solutionLabel",
+      "content": "Boshqaruv tuzilmasi"
+    },
+    "solutionTitle": {
+      "type": "text",
+      "title": "solutionTitle",
+      "content": "Yagona markazdan<br>koordinatsiya qilinadi"
+    },
+    "solutionBody": {
+      "type": "text",
+      "title": "solutionBody",
+      "content": "Qarorlar va vazifalar markazlashgan boshqaruv orqali taqsimlanadi. Har bir tadbir jamoaning to'liq safarbarligini talab qiladi va individual yo'nalishlarga joy qoldirmaydi."
+    }
+  }
+}
