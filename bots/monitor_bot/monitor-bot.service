@@ -1,0 +1,32 @@
+[Unit]
+Description=Imkoniyat Monitor Bot
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/opt/ufq_system/monitor_bot
+ExecStart=/opt/ufq_system/monitor_bot/venv/bin/python bot.py
+# Eslatma: .env faylni bot.py o'zi load_dotenv orqali o'qiydi.
+# systemd EnvironmentFile ishlatilmaydi — session satridagi maxsus
+# belgilar (=, bo'shliq) systemd parse xatosiga sabab bo'lishi mumkin.
+
+# Avtomatik qayta ishga tushirish
+Restart=always
+RestartSec=10
+StartLimitIntervalSec=60
+StartLimitBurst=3
+
+# Graceful shutdown
+TimeoutStopSec=30
+KillMode=mixed
+
+# Loglar journald ga
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=monitor-bot
+
+[Install]
+WantedBy=multi-user.target
